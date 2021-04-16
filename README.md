@@ -1,7 +1,7 @@
 # Final-Project-team-1
 ## Members
 Jon Riklan  
-Matthew Ross  
+Matthew Ross (mer148@pitt.edu) 
 Suchi Attota (sua27@pitt.edu)
 ## Datasets
 * City of Pittsburgh Playgrounds  

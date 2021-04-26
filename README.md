@@ -15,6 +15,6 @@ Link: https://data.wprdc.org/dataset/port-authority-monthly-average-on-time-perf
 Description: This dataset gives information about all Port Authority routes dating back to 2017, most notably concerning how frequently they are on time each month.
 * City of Pittsburgh Neighborhoods  
 Link: https://data.wprdc.org/dataset/neighborhoods2  
-Description:
+Description: This data set gives information on the geographical location and addresses of all the neighborhoods in pittsburgh as well as the names of all the neighborhoods
 ## Abstract
 The project analyzes four datasets to decide which is the best neighborhood in Pittsburgh based on how easily and conveniently you can get to a place that is fun and you are sure to have a good time. Parks are one of the best locations that guarantee a good time to people across all age groups, thus the datasets 'playgrounds' and 'courts' are analyzed and result in Highland Park at first position and Allegheny Commons at second position for best parks. Next, neighborhoods are examined to determine which neighborhoods are closest to those two parks, revealed to be Manchester and Lincoln-Lemington-Benmar. Finally, the choice between the two is decided by which neighborhood has the most reliable public transportation, which ends up being Manchester.

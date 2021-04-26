@@ -12,7 +12,7 @@ Link: https://data.wprdc.org/dataset/city-of-pittsburgh-courts
 Description: The Courts dataset, similar to the playgrounds set, includes the data about different courts located in Pittsburgh along with the parks and neighborhoods they are located in and a seperate column that gives the type of court.  
 * Port Authority Monthly On Time Performance by Route  
 Link: https://data.wprdc.org/dataset/port-authority-monthly-average-on-time-performance-by-route  
-Description:
+Description: This dataset gives information about all Port Authority routes dating back to 2017, most notably concerning how frequently they are on time each month.
 * City of Pittsburgh Neighborhoods  
 Link: https://data.wprdc.org/dataset/neighborhoods2  
 Description:

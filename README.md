@@ -17,3 +17,4 @@ Description:
 Link: https://data.wprdc.org/dataset/neighborhoods2  
 Description:
 ## Abstract
+The project analyzes four datasets to decide which is the best neighbourhood in Pittsburgh based on how easily and conveniently you can get to a place that is fun and you are sure to have a good time. Parks are one of the best locations that guarentee a good time to people across all age groups, thus the datasets 'playgrounds' and 'courts' are analyzed and result in Highland Park at first position and Allegheny Commons/Schenley Park at second position for best parks.
